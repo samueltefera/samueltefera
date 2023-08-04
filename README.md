@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Samuel Tefera, a passionate and dedicated Back
 
 ## Tech Stack
 
-- **Languages:** My primary programming languages of choice are Python and Node.
-- **Frameworks:** I am well-versed in Django, flask, express.
+- **Languages:** My primary programming languages of choice are Python and JavaScript.
+- **Frameworks:** I am well-versed in Django, flask,Node.
 - **Databases:** I have experience working with PostgreSQL, MySQL, DynamoDB, Redis.
 - **Tools:** I believe in the power of using the right tools for the job, such as Git, jenkins, travisCI.
 - **Cloud Services:** I have hands-on experience with Aws services and Ethiotelecom cloud services.
