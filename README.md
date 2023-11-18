@@ -1,7 +1,4 @@
-# 👋 Hello, awesome developers and curious minds! 👨‍💻🚀
-
-Welcome to my GitHub universe! I'm Samuel Tefera, and I'm thrilled to have you here. As a passionate Back-End Engineer, I'm all about crafting robust and scalable solutions that stand the test of time.
-
+## Hello
 ## Tech Stack ⚙️
 
 - **Languages:** I thrive in the realms of Python 🐍, JavaScript 🌐, and PHP 🛠️.
